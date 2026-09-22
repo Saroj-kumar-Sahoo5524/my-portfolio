@@ -87,10 +87,10 @@ export const metadata: Metadata = {
     },
   },
 
-  /* ── Verification (add your codes after verifying in Google Search Console) ── */
-  // verification: {
-  //   google: "YOUR_GOOGLE_VERIFICATION_CODE",
-  // },
+  /* ── Verification ── */
+  verification: {
+    google: "bdbc6795c09b7cd5",
+  },
 };
 
 /* ── JSON-LD Structured Data ── */
