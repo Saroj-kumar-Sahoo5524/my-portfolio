@@ -87,6 +87,13 @@ export const metadata: Metadata = {
     },
   },
 
+  /* ── Favicon / Icons ── */
+  icons: {
+    icon: "/favicon.png",
+    shortcut: "/favicon.png",
+    apple: "/favicon.png",
+  },
+
   /* ── Verification ── */
   verification: {
     google: "T5iV_tJitVfV6CrXMU1wCx-wP9afRGzwEO-a-UKsgVs",
