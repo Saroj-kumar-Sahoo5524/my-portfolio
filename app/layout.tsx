@@ -89,7 +89,7 @@ export const metadata: Metadata = {
 
   /* ── Verification ── */
   verification: {
-    google: "bdbc6795c09b7cd5",
+    google: "T5iV_tJitVfV6CrXMU1wCx-wP9afRGzwEO-a-UKsgVs",
   },
 };
 
